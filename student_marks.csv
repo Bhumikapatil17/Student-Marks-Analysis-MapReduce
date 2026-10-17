@@ -1,1 +1,16 @@
-
+StudentID,Name,Subject,Marks
+101,Asha,Mathematics,85
+101,Asha,Science,78
+101,Asha,English,90
+102,Ravi,Mathematics,65
+102,Ravi,Science,72
+102,Ravi,English,68
+103,Priya,Mathematics,92
+103,Priya,Science,88
+103,Priya,English,95
+104,Arjun,Mathematics,55
+104,Arjun,Science,62
+104,Arjun,English,58
+105,Neha,Mathematics,76
+105,Neha,Science,81
+105,Neha,English,79
